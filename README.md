@@ -20,7 +20,7 @@
 
 
 ###
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)<br>
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/AdarshCodeCraft)<br>
 
 
 
